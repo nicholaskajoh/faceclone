@@ -7,7 +7,9 @@ This repo contains the full project for my Medium series on building a Facebook 
 * Serve the template with PHP's development server
 
 ### Part 2
-...
+* Create and use partials
+* Write a schema
+* Create the database
 
 ### Part 3
 ...
