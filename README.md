@@ -12,7 +12,8 @@ This repo contains the full project for my Medium series on building a Facebook 
 * Create the database
 
 ### Part 3
-...
+* Connect to DB
+* Create, read and delete posts
 
 ### Part 4
 ...
