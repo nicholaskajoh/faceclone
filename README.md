@@ -16,7 +16,9 @@ This repo contains the full project for my Medium series on building a Facebook 
 * Create, read and delete posts
 
 ### Part 4
-...
+* User registration
+* Login
+* Logout
 
 ### Part 5
 ...

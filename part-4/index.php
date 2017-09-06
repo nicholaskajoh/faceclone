@@ -1,6 +1,13 @@
 <?php require_once "functions.php"; ?>
 <?php include "header.php" ?>
 
+<?php
+  // if user is logged in, redirect to home page
+  if(is_auth()) {
+    redirect_to("/home.php");
+  }
+?>
+
 <!-- main -->
 <main class="container">
   <!-- messages -->
