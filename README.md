@@ -21,7 +21,8 @@ This repo contains the full project for my Medium series on building a Facebook 
 * Logout
 
 ### Part 5
-...
+* Display user profile
+* Edit/update profile
 
 ### Part 6
 ...
