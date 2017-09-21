@@ -25,4 +25,7 @@ This repo contains the full project for my Medium series on building a Facebook 
 * Edit/update profile
 
 ### Part 6
-...
+* List users
+* Send friend request
+* Accept/decline friend request
+* Unfriend user
